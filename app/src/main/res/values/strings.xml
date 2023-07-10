@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DoIt</string>
+    <string name="selection_button">Selection Button</string>
+    <string name="tasks">Tasks</string>
+    <string name="new_task">New Task</string>
+    <string name="save">Save</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="do_the_thing">Just Do the Thing</string>
+</resources>
